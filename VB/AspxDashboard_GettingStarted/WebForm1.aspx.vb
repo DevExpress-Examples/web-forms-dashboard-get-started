@@ -10,7 +10,7 @@ Namespace AspxDashboard_GettingStarted
         Inherits System.Web.UI.Page
 
         Protected Sub Page_Load(ByVal sender As Object, ByVal e As EventArgs)
-
+            ASPxDashboard1.SetConnectionStringsProvider(New DevExpress.DataAccess.Web.ConfigFileConnectionStringsProvider())
         End Sub
     End Class
 End Namespace
