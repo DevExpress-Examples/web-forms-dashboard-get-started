@@ -8,7 +8,7 @@ using System.Web.UI.WebControls;
 namespace AspxDashboard_GettingStarted {
     public partial class WebForm1 : System.Web.UI.Page {
         protected void Page_Load(object sender, EventArgs e) {
-
+            ASPxDashboard1.SetConnectionStringsProvider(new DevExpress.DataAccess.Web.ConfigFileConnectionStringsProvider());
         }
     }
 }
