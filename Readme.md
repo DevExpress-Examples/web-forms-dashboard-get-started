@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [WebForm1.aspx](./CS/AspxDashboard_GettingStarted/WebForm1.aspx) (VB: [WebForm1.aspx.vb](./VB/AspxDashboard_GettingStarted/WebForm1.aspx.vb))
+* [WebForm1.aspx](./CS/AspxDashboard_GettingStarted/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/AspxDashboard_GettingStarted/WebForm1.aspx))
 * [WebForm1.aspx.cs](./CS/AspxDashboard_GettingStarted/WebForm1.aspx.cs) (VB: [WebForm1.aspx.vb](./VB/AspxDashboard_GettingStarted/WebForm1.aspx.vb))
 <!-- default file list end -->
 # Getting Started - Creating an ASP.NET Dashboard Designer Application (Runtime sample)
