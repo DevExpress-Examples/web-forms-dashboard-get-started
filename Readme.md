@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# Dashboard for Web Forms - Getting Started - Creating an ASP.NET Dashboard Designer Application (Runtime sample)
+# Dashboard for Web Forms - Get Started
 
 The example contains the source code of the project created in this step-by-step tutorial: [Create an ASP.NET Web Forms Dashboard Application](https://docs.devexpress.com/Dashboard/115782/get-started/build-web-dashboard-applications/create-an-aspnet-web-forms-dashboard-application).
 
