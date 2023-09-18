@@ -8,12 +8,10 @@
 
 The example contains the source code of the project created in this step-by-step tutorial: [Create an ASP.NET Web Forms Dashboard Application](https://docs.devexpress.com/Dashboard/115782/get-started/build-web-dashboard-applications/create-an-aspnet-web-forms-dashboard-application).
 
-<!-- default file list -->
-## Files to Look At
+## Files to Review
 
 * [WebForm1.aspx](./CS/AspxDashboard_GettingStarted/WebForm1.aspx)
 * [WebForm1.aspx.cs](./CS/AspxDashboard_GettingStarted/WebForm1.aspx.cs)
-<!-- default file list end -->
 
 ## Documentation
 
