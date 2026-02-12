@@ -18,7 +18,7 @@ The example contains the source code of the project created in this step-by-step
 
 - [Create an ASP.NET Web Forms Dashboard Application](https://docs.devexpress.com/Dashboard/115782/get-started/build-web-dashboard-applications/create-an-aspnet-web-forms-dashboard-application)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=web-forms-dashboard-get-started&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=web-forms-dashboard-get-started&~~~was_helpful=no)
 
